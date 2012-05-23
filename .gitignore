@@ -1,0 +1,9 @@
+*.iml
+.idea
+out
+bin
+gen
+*.swp
+local.properties
+obj
+assets/*.zip
